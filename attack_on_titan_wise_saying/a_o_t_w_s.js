@@ -2,7 +2,7 @@ var rand;
 var text;
 var by;
 
-rand =  Math.floor( Math.random() * 10 );
+rand =  Math.floor( Math.random() * 20 );
 
 if (rand == 0) {text = "駆逐してやる！この世から一匹残らず・・・";by = "エレン・イェーガー"};
 if (rand == 1) {text = "ふかした芋です！";by = "サシャ・ブラウス"};
