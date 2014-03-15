@@ -17,7 +17,7 @@ if (rand == 9) {text = "お荷物なんて、死んでもゴメンだ。";by = "
 
 
 
-text = '<th bgcolor="#DCDCDC"><font size="+1">進撃の巨人名言 attack_on_titan_wise_saying</font></th><th bgcolor="#DCDCDC"><font size="+1" color="#ff0000">' + text + "</font>";
+text = '<th bgcolor="#DCDCDC"><font size="+1">進撃の巨人名言 a_o_t_w_s</font></th><th bgcolor="#DCDCDC"><font size="+1" color="#ff0000">' + text + "</font>";
 by = '<font size="3">' + "by " + by + "</font></th>";
 
 document.write('<table border="1" width="800" cellspacing="0" cellpadding="5" bordercolor="#333333"><tr>')
