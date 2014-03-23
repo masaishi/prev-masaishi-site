@@ -66,7 +66,7 @@ function kurikku(){
 
 
 document.write('<table bordercolor="#ffffff" width="525"><tr><th bgcolor="#999999"><font color="#000000">')
-document.write('<a href="">randscratch</a><br><p>リロードすると作品が変ります。</p></th></tr><tr><th bgcolor="#999999"><font color="#000000">')
+document.write('<a href="http://masaishi.tumblr.com/post/80512565688/scratch">randscratch</a><br><p>リロードすると作品が変ります。</p></th></tr><tr><th bgcolor="#999999"><font color="#000000">')
 document.write(text);
 document.write(url);
 document.write('</font></th></tr></table>')
